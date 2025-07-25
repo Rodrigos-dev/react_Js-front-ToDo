@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/frontToDoWithReact/static/js/main.0e929195.js",
-    "index.html": "/frontToDoWithReact/index.html",
-    "main.0e929195.js.map": "/frontToDoWithReact/static/js/main.0e929195.js.map"
+    "main.js": "/react_Js-front-ToDo/static/js/main.0e929195.js",
+    "index.html": "/react_Js-front-ToDo/index.html",
+    "main.0e929195.js.map": "/react_Js-front-ToDo/static/js/main.0e929195.js.map"
   },
   "entrypoints": [
     "static/js/main.0e929195.js"
