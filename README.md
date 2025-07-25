@@ -49,11 +49,11 @@ https://github.com/Rodrigos-dev/EXPRESS-backend-ToDo (coloque o link correto)
 
 <table>
   <tr>    
-    <td><img src="https://github.com/user-attachments/assets/cc968226-55f2-4e94-85b3-fefecd732e84" width="50"/></td>
-    <td><img src="https://github.com/user-attachments/assets/73d1e861-cd2c-4a4a-9515-1020a3c708d9" width="50"/></td>
-    <td><img src="https://github.com/user-attachments/assets/2b93b31e-3b16-43f6-b036-7562c151cf1c" width="50"/></td>
-    <td><img src="https://github.com/user-attachments/assets/c2f7bb73-f793-4743-9197-d18b02790e0e" width="50"/></td>
-    <td><img src="https://github.com/user-attachments/assets/c89090ac-18a3-42de-8d84-fda3894dda0b" width="50"/></td>
+    <td><img src="https://github.com/user-attachments/assets/cc968226-55f2-4e94-85b3-fefecd732e84" width="100"/></td>
+    <td><img src="https://github.com/user-attachments/assets/73d1e861-cd2c-4a4a-9515-1020a3c708d9" width="100"/></td>
+    <td><img src="https://github.com/user-attachments/assets/2b93b31e-3b16-43f6-b036-7562c151cf1c" width="100"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c2f7bb73-f793-4743-9197-d18b02790e0e" width="100"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c89090ac-18a3-42de-8d84-fda3894dda0b" width="100"/></td>
   </tr>
   
 </table>
