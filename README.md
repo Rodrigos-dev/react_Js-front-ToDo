@@ -41,7 +41,6 @@ https://github.com/Rodrigos-dev/EXPRESS-backend-ToDo (coloque o link correto)
 ## Links de Deploy
 
 - 🔗 [GitHub Pages](https://rodrigos-dev.github.io/react_Js-front-ToDo/)
-- 
 
 ## Screenshots
 
