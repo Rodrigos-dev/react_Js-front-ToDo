@@ -40,6 +40,8 @@ https://github.com/Rodrigos-dev/EXPRESS-backend-ToDo (coloque o link correto)
 
 ## Links de Deploy
 
+OBS: DIGITE QUALQUER CODIGO NO INPUT INICIAL QUE TERA ACESSO AS OUTRAS PAGINAS
+
 - 🔗 [GitHub Pages](https://rodrigos-dev.github.io/react_Js-front-ToDo/)
 
 ## Screenshots
