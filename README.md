@@ -2,7 +2,7 @@
 
 ## ToDo - Task List Application
 
-Aplicativo para gerenciamento de tarefas diarias,semanais, mensais, anuais, que permite criar, visualizar e organizar suas anotações e compromissos. 
+Aplicativo para gerenciamento de tarefas diarias,semanais, mensais, anuais, que permite criar, visualizar e organizar suas anotações e compromissos.
 O sistema é composto por um frontend web desenvolvido em React e um backend RESTful construído com Express.js.
 
 backend encontra - se em outro repositorio 
